@@ -9,11 +9,11 @@ Turso with Laravel Jetstream example repository.
 ## Installation
 
 ```sh
-git clone https://github.com/darkterminal/jetstream-libsql.git
-# git cone git@github.com:darkterminal/jetstream-libsql.git
-# gh repo clone darkterminal/jetstream-libsql
+git clone https://github.com/darkterminal/turso-laravel-jetstream.git
+# git cone git@github.com:darkterminal/turso-laravel-jetstream.git
+# gh repo clone darkterminal/turso-laravel-jetstream
 
-cd jetstream-libsql
+cd turso-laravel-jetstream
 
 composer install
 ```
